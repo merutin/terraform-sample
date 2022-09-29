@@ -17,4 +17,3 @@ module "codedeploy" {
   autoscaling_group_name = "web-front"
   target_group_name      = "yamada-test"
 }
-
